@@ -1,0 +1,63 @@
+/*header*/
+
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body{
+    background-color: #c2c2c2;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .nav-logo {
+    font-size: 20px;
+    margin: 15px 20px;
+  }
+
+  nav {
+    display: flex;
+    align-items: center;
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+    background: #23232e;
+  }
+
+  .nav-suporte {
+    font-size: 20px;
+    margin-left: 250px;
+  }
+
+ .folhasp{
+   text-align: center;
+   font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+   font-size: 45px;
+ }
+
+
+main {
+    margin-left: 10px;
+}
+
+label {
+    margin-left: 6px;
+}
+
+.button {
+  background-color: royalblue;
+  color: aliceblue;
+  border-radius: 5px;
+  width: 130px;
+  height: 40px;
+  padding-right: 12px;
+}
+
+.fot-icon {
+    width: 40px;
+    height: 40px;
+}

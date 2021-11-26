@@ -1,0 +1,15 @@
+header{
+    background: black;
+}
+
+#dropdown{
+    background: black;
+}
+
+
+.maru{
+    color:white;
+    position: absolute;
+    font-size: 27px;
+    right: 610px;
+}

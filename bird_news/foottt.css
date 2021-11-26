@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+a {text-decoration: none;} 
+
+.fs-5{
+    color: aliceblue;
+}
+
+.malac{
+    color: aliceblue;
+    font-style:italic;
+    font-weight:bold;
+}
+
+.mb-2{
+    color: rgb(105, 110, 114);
+    font-style:italic;
+}
+
+.d-flex{
+    width: 240px;
+    position: absolute;
+    right: 99px;
+}
+
+#rodap{
+    
+    background: white;
+    color: rgb(105, 110, 114);
+    border: none;
+}
+ 
+
+
+
+
+
+
